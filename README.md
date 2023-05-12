@@ -1,2 +1,4 @@
 # TTT_WAP
-WAP project for May
+School project for May
+ - React website
+ - Esop for books
